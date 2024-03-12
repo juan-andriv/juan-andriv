@@ -1,7 +1,5 @@
 ### About me
-
-- 🔭 I’m currently working on climate and sustainability initiatives
-- 🌱 I’m currently learning R and SQL
-- 📫 How to reach me: check my linkedin profile
-- ⚡ Fun fact: Missing the tropics & subtropics
-
+Finding new tools to analyze climate and biodiversity data
+- 🌱 I’m currently learning R
+- ⚡ Future objectives include learning SQL and Python
+- 📫 Check my linkedin profile
