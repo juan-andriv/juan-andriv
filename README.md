@@ -1,5 +1,5 @@
 ### About me
 Finding new tools to analyze climate and biodiversity data
-- 🌱 I’m currently learning R
-- ⚡ Future objectives include learning SQL and Python
-- 📫 Check my linkedin profile
+- 🌱 Currently learning R
+- ⚡ Future objectives include learning SQL, Python and Geospatial applications
+- 📫 Check my linkedin profile: https://www.linkedin.com/in/juan-andriv/
